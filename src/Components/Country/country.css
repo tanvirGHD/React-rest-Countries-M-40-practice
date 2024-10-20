@@ -1,0 +1,14 @@
+.country{
+    border: 2px solid red;
+    padding: 10px;;
+    margin: 15px;
+    border-radius: 15px;
+}
+.img{
+    border-radius: 6px;
+    object-fit: contain;
+}
+
+.visited{
+    background-color: rgb(227, 245, 221);
+}
